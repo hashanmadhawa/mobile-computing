@@ -1,0 +1,30 @@
+{
+  "name": "day3-github",
+  "version": "1.0.0",
+  "description": "react introduction ",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/hashanmadhawa/mobile-computing#readme",
+  "bugs": {
+    "url": "https://github.com/hashanmadhawa/mobile-computing/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashanmadhawa/mobile-computing.git"
+  },
+  "license": "ISC",
+  "author": "mad",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}
